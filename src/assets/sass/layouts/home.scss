@@ -1,0 +1,34 @@
+.page-header{
+  margin: auto;
+  width: 75%;
+  border: 2px solid black;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+.todays-program{
+  margin: auto;
+  width: 75%;
+  border: 2px solid black;
+  border-bottom: none;
+  border-top: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  overflow: auto;
+}
+.column{
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 2px solid black;
+}
+.columns{
+  margin:auto;
+  width: 75%;
+  border: 2px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: none;
+}
